@@ -17,6 +17,8 @@
   - [拉取](#拉取)
   - [推送](#推送)
   - [git reflog](#git-reflog)
+  - [git log](#git-log)
+  - [git reset](#git-reset)
 
 <!-- /TOC -->
 # markdown 语法
@@ -47,3 +49,8 @@ git pull origin master
 ## 推送
 git push origin master
 ## git reflog 
+所有版本改动都有记录
+## git log
+只能看到以前的版本
+## git reset 
+版本之间的跳转
